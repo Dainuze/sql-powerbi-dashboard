@@ -42,16 +42,20 @@ Data Source: [`thelook_ecommerce`](https://console.cloud.google.com/bigquery?pro
 ## 📈 Key Visuals & Insights
 
 ![Sales Overview](./images/sales-overview.png)
+![Sales by Order Status](./images/by-order-status.png)
+![Sales by Brands and Categories](./images/by-brands-categories.png)
+![Geographical Sales](./images/geographical-sales.png)
+![Sales by Traffic Sources](./images/by-traffic-sources.png)
 
 ### Highlights:
 
-- 💸 **Revenue over time:** **Revenue shows consistent year-over-year growth** across three years, but the **growth rate is slowing** — a common trend following an initial steep launch phase.
-- - 🧾 **Profitability:** Company maintains good profitability with overall sales margin of **51.91%**.
+- **Revenue over time:** Revenue shows consistent year-over-year growth across three years, but the **growth rate is slowing** - a common trend following an initial steep launch phase.
+- **Profitability:** Company maintains good profitability with overall sales margin of **51.91%**.
 - 🧍 **Customer demographics:** Most purchases come from the **55+** age group, followed by customers **under 25**. There are slightly more male buyers than female.
-- ❗🚨 **Critical Insight:** **Cancelled orders** account for ~15% of all orders — this represents a **significant revenue loss**. It's essential to investigate the causes and take action.  
-- 🔁 **Returned orders** make up ~10% of all orders — a **normal trend in fashion e-commerce**, as customers can't try items before buying.
+- ❗🚨 **Critical Insight:** **Cancelled orders** account for ~15% of all orders - this represents a **significant revenue loss**. It's essential to investigate the causes and take action.  
+- **Returned orders** make up ~10% of all orders - a **normal trend in fashion e-commerce**, as customers can't try items before buying.
 - 🌍 **Geographical trends:** China and United States lead in customer orders and sales volumes
-- 🚦 **Traffic sources performance:** **Search (Paid)** is the **top revenue driver**, significantly outperforming other channels with **$2.490K** in total sales.
+- 🚦 **Traffic sources performance:** Search is the **top revenue driver**, significantly outperforming other channels with **$2.490K** in total sales.
 
 ---
 
