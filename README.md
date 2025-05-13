@@ -42,9 +42,13 @@ Data Source: [`thelook_ecommerce`](https://console.cloud.google.com/bigquery?pro
 ## 📈 Key Visuals & Insights
 
 ![Sales Overview](./images/sales-overview.png)
+
 ![Sales by Order Status](./images/by-order-status.png)
+
 ![Sales by Brands and Categories](./images/by-brands-categories.png)
+
 ![Geographical Sales](./images/geographical-sales.png)
+
 ![Sales by Traffic Sources](./images/by-traffic-sources.png)
 
 ### Highlights:
