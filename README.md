@@ -50,7 +50,7 @@ Data Source: [`thelook_ecommerce`](https://console.cloud.google.com/bigquery?pro
 ![Geographical Sales](./images/geographical-sales.png)
 
 ![Sales by Traffic Sources](./images/by-traffic-sources.png)
-
+<img src="path/to/your/image.png" width="200" height="100">
 ### Highlights:
 
 - **Revenue over time:** Revenue shows consistent year-over-year growth across three years, but the **growth rate is slowing** - a common trend following an initial steep launch phase.
